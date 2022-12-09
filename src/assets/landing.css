@@ -1,0 +1,7 @@
+.svgBG {
+    background-image: url("../assets/topography.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
